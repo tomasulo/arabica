@@ -43,8 +43,13 @@
 .icon-google-plus:before {
     content: "\e003";
 }
-.icon-facebook:before {
-    content: "\e004";
+.icon-github:before {
+    font-family: "FontAwesome";
+    content: "\f09b";
+}
+.icon-stackoverflow:before {
+    font-family: "FontAwesome";
+    content: "\f16c";
 }
 .icon-arrow-left:before {
     content: "\e005";
